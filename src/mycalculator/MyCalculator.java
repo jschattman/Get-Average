@@ -11,6 +11,7 @@ public class MyCalculator {
     public static void main(String[] args) {
         MyCalculator mc = new MyCalculator();
         System.out.println( mc.getAverage(30, 20));
+        System.out.println( mc.getAverage(50, 10));
     }
     
 }
