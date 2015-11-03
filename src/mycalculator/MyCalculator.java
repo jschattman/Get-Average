@@ -10,7 +10,7 @@ public class MyCalculator {
     
     public static void main(String[] args) {
         MyCalculator mc = new MyCalculator();
-        System.out.println( mc.getAverage(10, 20));
+        System.out.println( mc.getAverage(30, 20));
     }
     
 }
